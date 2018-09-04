@@ -1,6 +1,6 @@
 # Concert-App
 
-#Intro
+Intro
 
 I want to create an app where I can list the concerts I'm interested in going to. I'll be able to create a listing and also update it and delete it. This will help me be better organized because right now I originize my events on a notebad and that is boring and bland.
 
