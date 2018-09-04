@@ -14,7 +14,6 @@ As a user I want to be able to add a listing
 
 As a user I want to be able to update and delete a listing
 
-As a user I want to favorite the concert listing I'm looking most forward too.
 
 # Initial ERD
 
@@ -40,3 +39,5 @@ Database:PSQL?
 Add a countdown timer to the events 
 
 Rate the concert out of 10 
+
+I want to favorite the concert listing I'm looking most forward too.
